@@ -1,0 +1,15 @@
+ {
+    "ace9eea0-e29c-94d2-d4e3-abbdcdbecae4":{
+     "usericonpath":"https://example.com/usericon/1234567890.png",
+     "username":"ユーザー名",
+     "postedtime":"2024-06-01 12:00:00",
+     "list-linkurl":[
+         "https://example.com/link1",
+         "https://example.com/link2"
+     ],
+     "linktitle":[
+         "リンク1のタイトル",
+         "リンク2のタイトル"
+     ]
+ }
+ }
